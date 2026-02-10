@@ -1,0 +1,8 @@
+{
+  "name": "MEDNOVA Nexus",
+  "description": "Sistema integral de Historia Clínica Electrónica y Agenda para el Centro Médico MEDNOVA. Incluye gestión de turnos, HCE con inalterabilidad, auditoría completa y campañas de mensajería masiva con opt-in.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
